@@ -1,38 +1,25 @@
-<<<<<<< HEAD
-# PHP Native Blog Project
+# 📰 PHP Blog Platform
 
-This project was built to master some PHP native coding skills.  
+A clean and functional blog platform developed using **PHP** and **MySQL**, allowing users to register, log in, and publish articles. Admins can manage categories, authors, and content through a simple UI.
 
-## Getting Started
+## ✨ Features
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+- ✍️ Article Creation by Registered Users
+- 📚 Category-based Article Filtering
+- 🧑 Author & Category Management (Admin)
+- 📅 Articles Sorted by Date
 
-Instructions to follow :
+## 🧰 Tech Stack
 
-```
-1 - You have to import the db.sql file to your database
-2 - Copy all files to your htdocs/blog folder
-3 - Run your server and navigate to the project (http://localhost/blog/)
-```
+- **Frontend:** HTML, CSS (optional: Bootstrap)
+- **Backend:** PHP (Procedural)
+- **Database:** MySQL
+- **Environment:** XAMPP / LAMP Stack
 
-### Prerequisites
+## 📦 Getting Started
 
-What things you need :
+### 1. Clone the Repository
 
-```
-The PHP engine Version 7
-The Apache Web server 
-The MySQL database server
-```
-
-## Built With
-
-* [xampp](https://www.apachefriends.org/) - PHP development environment
-* [visualstudio](https://code.visualstudio.com/) - Code editor
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-=======
-# Blog
->>>>>>> 54dde625135cb1c37f273b8e16f2f6ef8de2fd9a
+```bash
+git clone https://github.com/Vivekkk-1/Blog.git
+cd Blog
