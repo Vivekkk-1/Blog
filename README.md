@@ -16,6 +16,9 @@ A clean and functional blog platform developed using **PHP** and **MySQL**, allo
 - **Database:** MySQL
 - **Environment:** XAMPP / LAMP Stack
 
+## Live Preview
+[Live](http://blogforu.42web.io/)
+
 ## 📦 Getting Started
 
 ### 1. Clone the Repository
